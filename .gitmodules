@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "ConformalSmallest"]
+	path = ConformalSmallest
+	url = https://github.com/elsa-yang98/conformalsmallest
+	shallow = true
+	registered = true
